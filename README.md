@@ -1,4 +1,4 @@
-<h1>**Sudoku Solver using Backtracking in Python.**<h1></h1>
+<h1>Sudoku Solver using Backtracking in Python.</h1>
 
 As a human being, we use the following steps to solve a sudoku.
 Let us consider the number that we're checking for to be the selected number "N" in this case.
