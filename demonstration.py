@@ -30,7 +30,7 @@ def check(x_axis, y_axis, n):
 
 def display(matrix):
      for i in range(9):
-          print(matrix[i])
+          print(" ".join(matrix[i]))
 
 def solution_backtrack():
     global grid
